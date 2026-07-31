@@ -17,7 +17,7 @@ A lightweight, robust client-side userscript for **[Wolfy.net](https://wolfy.net
 To use this userscript, you need a userscript manager browser extension like **Tampermonkey** or **Violentmonkey**.
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) for your browser.
-2. [Click here to install the script](https://github.com/go-lover/wolfy-skin-slots-unlocker/raw/main/wolfy-skin-slots-unlocker.user.js) *(or create a new script manually in your extension dashboard and paste the code).*
+2. [Click here to install the script](https://github.com/go-lover/wolfy-skin-slot-unlocker/raw/refs/heads/main/wolfy-skin-slots-unlocker.user.js) *(or create a new script manually in your extension dashboard and paste the code).*
 3. Navigate to **[Wolfy.net Skin Customization](https://wolfy.net/fr/skin)** and enjoy your unlocked slots.
 
 ## How It Works
